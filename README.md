@@ -32,4 +32,4 @@ Description:
 This dataset contains detailed records of restaurant and food facility inspections in Allegheny County. It includes inspection dates, facility addresses, violations observed, and related metadata. The dataset is instrumental for public health analysis, identifying trends in food safety compliance, and improving consumer awareness about hygiene standards. It is widely used by health officials, data analysts, and the general public to monitor and enhance food safety standards in the region.
 
 
-Find the best neighborhood in Pittsburgh in three ways: Safty, Education and Food.
+Find the best neighborhood in Pittsburgh in three ways: Safety, Education and Food.
