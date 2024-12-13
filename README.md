@@ -28,7 +28,7 @@ Allegheny County Restaurant/Food Facility Inspections and Locations
 Food Facility/Restaurant Inspection Violations
 https://data.wprdc.org/datastore/dump/1a1329e2-418c-4bd3-af2c-cc334e7559af
 Description:
-This dataset contains detailed records of restaurant and food facility inspections in Allegheny County. It includes inspection dates, facility addresses, violations observed, and related metadata. The dataset is instrumental for public health analysis, identifying trends in food safety compliance, and improving consumer awareness about hygiene standards. It is widely used by health officials, data analysts, and the general public to monitor and enhance food safety standards in the region.
+This dataset contains detailed records of restaurant and food facility inspections in Allegheny County. It includes inspection dates, facility addresses, violations observed, and related metadata. The dataset is instrumental for public health analysis, identifying trends in food safety compliance, and improving consumer awareness about hygiene standards.
 For the code with respect to this dataset, we include only low inspection violations, as they do not pose any health risks to consumers compared to medium and high violations.
 
 
