@@ -15,8 +15,7 @@ Pittsburgh Police Arrest Data
 Arrests
 https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 Description:
-This dataset provides detailed records of arrests made by the Pittsburgh Police Department. It includes information such as arrest dates, incident locations, offense descriptions, and related demographics. The data is valuable for analyzing crime patterns, understanding law enforcement activity, and studying societal and policy impacts on arrest trends. Researchers, policymakers, and journalists can use this dataset to explore temporal and spatial trends in arrests across Pittsburgh.
-
+This dataset provides detailed records of arrests made by the Pittsburgh Police Department. It includes information such as arrest dates, incident locations, offense descriptions, and related demographics. We used this to calculate the total arrest counts for our selected neighborhoods. Although the dataset is labeled as specific to Pittsburgh, we noticed an 'Outside City' label under the 'IncidentNeighborhood' column. To ensure we included only incidents within Pittsburgh, we first filtered out any entries marked as 'Outside City.' Then, we narrowed down the data to just the neighborhoods we wanted to compare. Using the 'IncidentNeighborhood' column, we tallied up all the arrests for each neighborhood.
 
 Allegheny County Private Schools Location
 CSV
@@ -30,6 +29,8 @@ Food Facility/Restaurant Inspection Violations
 https://data.wprdc.org/datastore/dump/1a1329e2-418c-4bd3-af2c-cc334e7559af
 Description:
 This dataset contains detailed records of restaurant and food facility inspections in Allegheny County. It includes inspection dates, facility addresses, violations observed, and related metadata. The dataset is instrumental for public health analysis, identifying trends in food safety compliance, and improving consumer awareness about hygiene standards. It is widely used by health officials, data analysts, and the general public to monitor and enhance food safety standards in the region.
+For the code with respect to this dataset, we include only low inspection violations, as they do not pose any health risks to consumers compared to medium and high violations.
+
 
 
 Find the best neighborhood in Pittsburgh in three ways: Safety, Education and Food.
