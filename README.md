@@ -1,4 +1,4 @@
-# **The-best-neighborhood-in-Pittsburgh**
+# The-best-neighborhood-in-Pittsburgh
 ## Team name: 
 Team Team
 
