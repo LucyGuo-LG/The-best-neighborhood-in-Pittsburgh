@@ -2,7 +2,7 @@
 ## Team name: 
 Team Team
 
-## Team members and their email addresses:
+## Team members and email addresses:
 
 name: Lucy Guo 
 
