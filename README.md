@@ -2,7 +2,7 @@
 ## Team name: 
 Team Team
 
-Team members and their email addresses:
+## Team members and their email addresses:
 
 name: Lucy Guo 
 
@@ -12,9 +12,9 @@ name: Cathy Kyin
 
 email: cak287@pitt.edu
 
-Description and links to the datasets used:
+## Description and links to the datasets used:
 
-Pittsburgh Police Arrest Data
+### Pittsburgh Police Arrest Data
 
 Arrests
 
@@ -24,7 +24,7 @@ Description:
 
 This dataset provides detailed records of arrests made by the Pittsburgh Police Department. It includes information such as arrest dates, incident locations, offense descriptions, and related demographics. We used this to calculate the total arrest counts for our selected neighborhoods. Although the dataset is labeled as specific to Pittsburgh, we noticed an 'Outside City' label under the 'IncidentNeighborhood' column. To ensure we included only incidents within Pittsburgh, we first filtered out any entries marked as 'Outside City.' Then, we narrowed down the data to just the neighborhoods we wanted to compare. Using the 'IncidentNeighborhood' column, we tallied up all the arrests for each neighborhood.
 
-Allegheny County Restaurant/Food Facility Inspections and Locations
+### Allegheny County Restaurant/Food Facility Inspections and Locations
 
 Food Facility/Restaurant Inspection Violations
 
@@ -35,7 +35,7 @@ Description:
 This dataset contains detailed records of restaurant and food facility inspections in Allegheny County. It includes inspection dates, facility addresses, violations observed, and related metadata. The dataset is instrumental for public health analysis, identifying trends in food safety compliance, and improving consumer awareness about hygiene standards.
 For the code with respect to this dataset, we include only low inspection violations, as they do not pose any health risks to consumers compared to medium and high violations.
 
-Allegheny County Private Schools Location
+### Allegheny County Private Schools Location
 
 CSV
 
