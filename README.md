@@ -3,6 +3,7 @@ Team name:
 Team Team
 
 Team members and their email addresses:
+
 name: Lucy Guo 
 email: dag233@pitt.edu
 
